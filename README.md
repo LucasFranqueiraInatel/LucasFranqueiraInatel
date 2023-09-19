@@ -1,6 +1,6 @@
 <h2> Hi, I'm <a href="https://LucasFranqueiraInatel.github.io" target="_blank">Lucas Franqueira!</a> <img src="https://media.giphy.com/media/4T3tuAa2WLJJEF8DSr/giphy.gif" width="50"></h2>
-<p><em>Studying Computer Enginner at <a href="http://www.inatel.br" target="_blank">INATEL</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-  Fullstack Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>Studying Computer Enginner at <a href="http://www.inatel.br" target="_blank">INATEL</a><img src="https://media.giphy.com/media/MB75OzWrpUMOWfBHg0/giphy.gif" width="30"></br>
+  Fullstack Web Developer<img src="https://media.giphy.com/media/HCwnYWnMgLZUW1BtP2/giphy.gif" width="30">
 </em></p>
 
 [![Linkedin: LucasFranqueiraInatel](https://img.shields.io/badge/-LucasFranqueiraInatel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/LucasFranqueiraInatel/)](https://www.linkedin.com/in/lucas-franqueira-5a5b64261/)
