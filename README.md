@@ -1,4 +1,4 @@
-<h2> Hi, I'm <a href="https://LucasFranqueiraInatel.github.io" target="_blank">Lucas Franqueira!</a> <img src="https://giphy.com/embed/4T3tuAa2WLJJEF8DSr" width="50"></h2>
+<h2> Hi, I'm <a href="https://LucasFranqueiraInatel.github.io" target="_blank">Lucas Franqueira!</a> <img src="https://media.giphy.com/media/4T3tuAa2WLJJEF8DSr/giphy.gif" width="50"></h2>
 <p><em>Studying Computer Enginner at <a href="http://www.inatel.br" target="_blank">INATEL</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
   Fullstack Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
