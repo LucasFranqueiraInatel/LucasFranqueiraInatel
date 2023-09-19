@@ -3,7 +3,7 @@
   Fullstack Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
-[![Linkedin: LucasFranqueiraInatel](https://img.shields.io/badge/-LucasFranqueiraInatel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/LucasFranqueiraInatel/)](https://www.linkedin.com/in/LucasFranqueiraInatel/)
+[![Linkedin: LucasFranqueiraInatel](https://img.shields.io/badge/-LucasFranqueiraInatel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/LucasFranqueiraInatel/)](https://www.linkedin.com/in/lucas-franqueira-5a5b64261/)
 [![GitHub LucasFranqueiraInatel](https://img.shields.io/github/followers/LucasFranqueiraInatel?label=follow&style=social)](https://github.com/LucasFranqueiraInatel)
 
 
