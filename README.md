@@ -19,7 +19,7 @@ const lucasFranqueira = {
             js: ["Node"]
         },
         frontEnd: {
-            techs: ["React"]
+            techs: ["React", "Django"]
         },
         databases: ["MySql", "MongoDB"],
    },
