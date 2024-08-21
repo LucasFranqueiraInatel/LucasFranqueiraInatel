@@ -12,19 +12,19 @@
 ```javascript
 const lucasFranqueira = {
   pronouns: "He" | "Him",
-  code: [Javascript, HTML, CSS, Python, Java, C++],
+  code: [Javascript, PHP, HTML, CSS, Python, Java, C++],
   askMeAbout: ["web dev", "tech", "games"],
   technologies: {
         backEnd: {
-            js: ["Node"]
+            js: ["Node", "Flask", "Django"]
         },
         frontEnd: {
-            techs: ["React", "Django"]
+            techs: ["React", "NextJs"]
         },
         databases: ["MySql", "MongoDB"],
    },
    currentFocus: {
-        web: "Fullstack JavaScript Development"
+        web: "Fullstack Development"
    }
 }
 ```
